@@ -1,6 +1,6 @@
 name: thai_to_eng_keyboard
 description: "Thai2EngKeyboard is a lightweight and easy-to-use Flutter library that allows developers to convert Thai text into English keyboard characters based on standard Thai keyboard layouts. It is designed to support applications such as transliteration systems, search optimization, and user input conversion."
-version: 0.1.0
+version: 1.0.0
 homepage:
 
 environment:
