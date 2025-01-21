@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Installation (การติดตั้ง)
+## 🚀 Installation
 
 ### Add to `pubspec.yaml`:
 ```yaml
@@ -45,3 +45,9 @@ void main() {
   print(customText); // Output: izoiut
 }
 ```
+
+---
+
+## Issues & Support
+
+If you find any issues or have suggestions, please open an issue on GitHub.
