@@ -15,6 +15,8 @@ void main() {
 
   test('Convert Thai to English with Custom Map Conversion', () {
 
+    expect(convertThaiToEnglishWithCustomMap('สวัสดี', null), 'สวัสดี');
+
     expect(convertThaiToEnglishWithCustomMap('สวัสดี', {}), 'สวัสดี');
 
     final customMap = {'':''};
