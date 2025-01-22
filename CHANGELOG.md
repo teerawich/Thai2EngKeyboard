@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2]
+### Added
+- Just update color for example.
+
+### Fixed
+- N/A
+
 ## [1.0.1]
 ### Added
 - Added example for library.

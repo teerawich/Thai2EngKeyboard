@@ -44,7 +44,7 @@ class _MyAppState extends State<MyApp> {
                 convertedText,
                 style: TextStyle(
                   fontSize: 18.0,
-                  color: Colors.blue
+                  color: Colors.blue[800]
                 ),
               )
             ],
